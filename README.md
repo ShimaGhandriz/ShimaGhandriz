@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shima Ghandriz</h1>
+<h1 align="center">Hi, I'm Shima Ghandriz</h1>
 <h3 align="center">A passionate Prospective PhD student</h3>
 
 
