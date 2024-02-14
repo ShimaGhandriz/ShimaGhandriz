@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Prospective PhD student</h3>
 
 
-- 🔭 I’m currently working on **Multiple projects in AI**
+🔭 I’m currently working on **Multiple projects in AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
