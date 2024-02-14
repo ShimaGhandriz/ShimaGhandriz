@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shima Ghandriz</h1>
 <h3 align="center">A passionate Prospective PhD student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shimaghandriz&label=Profile%20views&color=0e75b6&style=flat" alt="shimaghandriz" /> </p>
 
 - 🔭 I’m currently working on **Multiple projects in AI**
 
