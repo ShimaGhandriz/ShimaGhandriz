@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shima Ghandriz</h1>
-<h3 align="center">A passionate Prospective PhD student</h3>
+<h3 align="center">A passionate Prospective Master student</h3>
 
 
 🔭 I’m currently working on **Multiple projects in AI**
